@@ -1,3 +1,4 @@
+![#00000](https://placehold.co/15x15/f03c15/f03c15.png) `#00000`
 <h2 align="center">Welcome!</h2>
 
 ###
