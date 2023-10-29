@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/6DulEteI0z4AAAAC/pompompurin-enoukae.gif"  />
+  <img height="200" src="https://media.tenor.com/6DulEteI0z4AAAAC/pompompurin-enoukae.gif" align="right" />
 </div>
 
 ###
@@ -54,6 +54,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Thanks for reading!</h3>
 
 ###
 
