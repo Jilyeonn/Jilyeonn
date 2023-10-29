@@ -9,7 +9,7 @@
 
 ###
 
-!<p align="left">😸 ABOUT ME<br><br>I am Joeylyn Vergara. A first year BSIS student at DFCAMCLP - Satellite Campus.</p>
+<span style="color: red;"><p align="left">😸 ABOUT ME<br><br>I am Joeylyn Vergara. A first year BSIS student at DFCAMCLP - Satellite Campus.</p></span>
 
 ###
 
