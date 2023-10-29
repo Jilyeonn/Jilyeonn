@@ -2,11 +2,25 @@
 
 ###
 
-<p align="left">I am Joeylyn Vergara. A first year BSIS student at DFCAMCLP - Satellite Campus. <br><br>Languages and tools:</p>
+<div align="center">
+  <img height="200" src="https://media.tenor.com/9S5oqAi3iFsAAAAd/pompompurin-enoukae.gif"  />
+</div>
 
 ###
 
-<div align="left">
+<p align="left">😸 ABOUT ME<br><br>I am Joeylyn Vergara. A first year BSIS student at DFCAMCLP - Satellite Campus.</p>
+
+###
+
+<p align="left">🤗 Fun facts:<br>- I love cats and dogs<br>- I like developing applications<br>- I watch a lot of anime particularly romance</p>
+
+###
+
+<p align="left">📄 Languages and tools:</p>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -20,17 +34,23 @@
 
 ###
 
-<p align="left">📫 How to reach me:</p>
+<p align="left">📫 Don't be shy and reach me at</p>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <a href="https://www.facebook.com/jilyeonn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/?authuser=vjoey2209@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Jilyeonn/Jilyeonn/output/snake.svg" alt="Snake animation" />
 
 ###
