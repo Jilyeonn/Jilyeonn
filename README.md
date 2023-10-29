@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/9S5oqAi3iFsAAAAd/pompompurin-enoukae.gif"  />
+  <img height="200" src="https://media.tenor.com/6DulEteI0z4AAAAC/pompompurin-enoukae.gif"  />
 </div>
 
 ###
@@ -51,6 +51,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jilyeonn/Jilyeonn/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media.tenor.com/9S5oqAi3iFsAAAAd/pompompurin-enoukae.gif"  />
+</div>
 
 ###
