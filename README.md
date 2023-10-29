@@ -13,11 +13,11 @@
 
 ###
 
-!<p align="left">🤗 Fun facts:<br>- I love cats and dogs<br>- I like developing applications<br>- I watch a lot of anime particularly romance</p>
+<p align="left">🤗 Fun facts:<br>- I love cats and dogs<br>- I like developing applications<br>- I watch a lot of anime particularly romance</p>
 
 ###
 
-!<p align="left">📄 Languages and tools:</p>
+<p align="left">📄 Languages and tools:</p>
 
 ###
 
