@@ -1,4 +1,4 @@
-![#00000](https://placehold.co/15x15/f03c15/f03c15.png) `#00000`
+
 <h2 align="center">Welcome!</h2>
 
 ###
@@ -9,15 +9,15 @@
 
 ###
 
-<p align="left">😸 ABOUT ME<br><br>I am Joeylyn Vergara. A first year BSIS student at DFCAMCLP - Satellite Campus.</p>
+!<p align="left">😸 ABOUT ME<br><br>I am Joeylyn Vergara. A first year BSIS student at DFCAMCLP - Satellite Campus.</p>
 
 ###
 
-<p align="left">🤗 Fun facts:<br>- I love cats and dogs<br>- I like developing applications<br>- I watch a lot of anime particularly romance</p>
+!<p align="left">🤗 Fun facts:<br>- I love cats and dogs<br>- I like developing applications<br>- I watch a lot of anime particularly romance</p>
 
 ###
 
-<p align="left">📄 Languages and tools:</p>
+!<p align="left">📄 Languages and tools:</p>
 
 ###
 
