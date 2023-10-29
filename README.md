@@ -4,12 +4,12 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/6DulEteI0z4AAAAC/pompompurin-enoukae.gif"  />
+  <img height="200" src="https://media.tenor.com/6DulEteI0z4AAAAC/pompompurin-enoukae.gif" align="right" />
 </div>
 
 ###
 
-<span style="color: red;"><p align="left">😸 ABOUT ME<br><br>I am Joeylyn Vergara. A first year BSIS student at DFCAMCLP - Satellite Campus.</p></span>
+<p align="left">😸 ABOUT ME<br><br>I am Joeylyn Vergara. A first year BSIS student at DFCAMCLP - Satellite Campus.</p>>
 
 ###
 
