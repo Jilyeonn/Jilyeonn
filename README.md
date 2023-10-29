@@ -1,19 +1,24 @@
-
 <h2 align="center">Welcome!</h2>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/6DulEteI0z4AAAAC/pompompurin-enoukae.gif" align="right" />
+  <img height="200" src="https://media.tenor.com/6DulEteI0z4AAAAC/pompompurin-enoukae.gif"  />
 </div>
 
 ###
 
-<p align="left">😸 ABOUT ME<br><br>I am Joeylyn Vergara. A first year BSIS student at DFCAMCLP - Satellite Campus.</p>>
+<p align="left">😸 ABOUT ME<br><br>I am Joeylyn Vergara. A first year BSIS student at DFCAMCLP - Satellite Campus.</p>
 
 ###
 
 <p align="left">🤗 Fun facts:<br>- I love cats and dogs<br>- I like developing applications<br>- I watch a lot of anime particularly romance</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f2ef04a-4afe-4b63-bda9-b5ea5e2eb63e/dbwock3-44092b05-ebbf-4593-a5fd-dbeae8ed0105.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmMmVmMDRhLTRhZmUtNGI2My1iZGE5LWI1ZWE1ZTJlYjYzZVwvZGJ3b2NrMy00NDA5MmIwNS1lYmJmLTQ1OTMtYTVmZC1kYmVhZThlZDAxMDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mdwZ9pEL3eanHZMuYFwI5bbKq5C2I9wBU9nomyv4AGg"  />
+</div>
 
 ###
 
